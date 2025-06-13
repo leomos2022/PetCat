@@ -1,4 +1,4 @@
-# Análisis Técnico: Desarrollo de Aplicación Móvil FiruCat
+# Análisis Técnico: Desarrollo de Aplicación Móvil PetCat
 ## Tienda de Mascotas - Android Studio & Kotlin
 
 ---
