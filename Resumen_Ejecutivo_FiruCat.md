@@ -5,7 +5,7 @@
 
 ## Información General
 
-**Proyecto**: FiruCat - Aplicación móvil para tienda de mascotas  
+**Proyecto**: PetCat - Aplicación móvil para tienda de mascotas  
 **Plataforma**: Android nativo  
 **Lenguaje**: Kotlin  
 **Framework UI**: Jetpack Compose  
@@ -182,7 +182,7 @@ app/src/main/
 ### Respuesta a la Pregunta Orientadora
 **¿Cómo pueden los avances en la tecnología móvil aprovecharse para crear experiencias visuales envolventes y eficientes?**
 
-La aplicación FiruCat demuestra que los avances tecnológicos se aprovechan mediante:
+La aplicación PetCat demuestra que los avances tecnológicos se aprovechan mediante:
 
 1. **Tecnologías Modernas**: Jetpack Compose, Coroutines, Material Design 3
 2. **Librerías Especializadas**: Coil, ExoPlayer, Navigation Component
@@ -207,7 +207,7 @@ La aplicación FiruCat demuestra que los avances tecnológicos se aprovechan med
 
 ---
 
-**Documento**: Resumen Ejecutivo FiruCat  
+**Documento**: Resumen Ejecutivo PetCat  
 **Versión**: 1.0  
-**Fecha**: Diciembre 2024  
+**Fecha**: Junio 13 2025  
 **Autor**: Análisis Técnico - Desarrollo Móvil 
