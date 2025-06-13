@@ -1,4 +1,4 @@
-# Resumen Ejecutivo: Desarrollo de FiruCat
+# Resumen Ejecutivo: Desarrollo de PetCat
 ## Aplicación Móvil para Tienda de Mascotas
 
 ---
